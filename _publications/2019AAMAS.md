@@ -1,7 +1,7 @@
 ---
 title: "Delayed and time-variant patrolling strategies against attackers with local observation capabilities"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2019AAMAS
 excerpt: 'The use of autonomous robots for surveillance is one of the most interesting applications of graph-patrolling algorithms. In recent years, considerable effort has been de- voted to tackling the problem of efficiently computing effective patrolling strategies. One of the mainstream approaches is adversarial patrolling, where a model of a strategic attacker is explicitly taken into account. A common assumption made by these techniques is to consider a worst-case attacker, char- acterized by ubiquitous and perfect observation capabilities. We assume that the modeled attacker follows a behavior induced by its observations. Thus, we devise a randomized patrolling strategy based on Markov chains that makes observations reveal very little information, while still maintaining a reasonable level of protection in the environment.'
 date: 2019
 venue: 'Proceedings of the International Joint Conference on Autonomous Agents and Multi-agent Systems (AAMAS)'
