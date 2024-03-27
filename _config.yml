@@ -23,11 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : ""
-  pronouns         : # example: "she/her"  
+  pronouns         : he/him/él
   bio              : "Assistant Professor -- Computer Engineering"
   location         : "San Luis Obispo, CA"
-  employer         : "https://cpe.calpoly.edu"
-  uri              : # URL
+  employer         : "Cal Poly SLO | https://cpe.calpoly.edu"
   email            : "carlosediaz.cd@gmail.com" 
 
   # Academic websites
