@@ -1,5 +1,5 @@
 ---
-title: "CSE015: Discrete Mathematics"
+title: "UC Merced
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-summmer
@@ -8,13 +8,4 @@ date: 2023-06-01
 location: "Merced, USA"
 ---
 
-Course covers introductions to topics in Boolean Logic, Big-O notation and Proofs.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+CSE015: Discrete Mathematics
