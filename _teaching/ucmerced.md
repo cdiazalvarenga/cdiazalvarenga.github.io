@@ -1,5 +1,5 @@
 ---
-title: "UC Merced
+title: "UC Merced"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-summmer
