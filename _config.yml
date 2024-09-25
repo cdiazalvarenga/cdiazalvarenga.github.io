@@ -12,8 +12,8 @@ title                    : "Carlos Diaz Alvarenga"
 title_separator          : "-"
 name                     : &name "Carlos"
 description              : &description "personal description"
-url                      : https://cdiazalvarenga.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://cdiazalvarenga.github.io 
+baseurl                  : ""
 repository               : "cdiazalvarenga/cdiazalvarenga.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : ""
   pronouns         : he/him/él
-  bio              : "Assistant Professor -- Computer Engineering (CPE)"
+  bio              : "Assistant Professor in Computer Engineering at Cal Poly SLO"
   location         : "Office: 20A-314"
   employer         : "https://cpe.calpoly.edu"
-  email            : "carlosediaz.cd@gmail.com" 
+  email            : "cdiazalv@calpoly.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

@@ -1,19 +1,16 @@
 # main links links
 main:
-  - title: "Group"
-    url: /cv/
-
-  - title: "Prospective Students"
-    url: /cv/
-
   - title: "Research"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
+    url: /cv/
 
   - title: "Teaching"
-    url: /teaching/
-
-  - title: "Outreach"
     url: /cv/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teams"
+    url: /talks/    
+
+  - title: "Service"
+    url: /teaching/
