@@ -7,5 +7,5 @@ venue: "University of California Merced, Department of Computer Science and Engi
 date: 2023-06-01
 location: "Merced, USA"
 ---
-
+Summer 2023
 CSE015: Discrete Mathematics
